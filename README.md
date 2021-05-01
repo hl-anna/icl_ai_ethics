@@ -10,7 +10,7 @@ The task is to compare standard ML models versus fairness-based ML models with t
 This repository contains two colab notebooks: 
 
 - ML_Fairness_main.ipynb - main notebook that contains code for analysing two data sets from the aif360 library, the AdultDataset and the CompasDataset.
-- ML_Fairness_Cw_additional.ipynb - where fairness of models is explored when sensitive features are exculded from the data.
+- ML_Fairness_additional.ipynb - where fairness of models is explored when sensitive features are exculded from the data.
 
 These can be run out of the box and each notebook has an outline for easier navigation.
 
