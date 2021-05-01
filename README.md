@@ -7,12 +7,11 @@ The task is to compare standard ML models versus fairness-based ML models with t
 *   Most fair
 *   Most accurate & fair
 
-This repository contains three colab notebooks: 
+This repository contains two colab notebooks: 
 
-- one for the AdultDataset (ML_Fairness_Cw_Adult.ipynb)
-- one for the CompasDataset (ML_Fairness_Cw_Compas.ipynb)
-- and one for the additional analysis (ML_Fairness_Cw_Additional.ipynb).
+- ML_Fairness_main.ipynb - main notebook that contains code for analysing two data sets from the aif360 library, the AdultDataset and the CompasDataset.
+- ML_Fairness_additional.ipynb - where fairness of models is explored when sensitive features are exculded from the data.
 
-These can be all run out of the box and each notebook has an outline for easier navigation.
+These can be run out of the box and each notebook has an outline for easier navigation.
 
 Note: One of the aif360 module import fails sometimes and gives an error. If that happens, one only needs to re-run the cell (this import cell is the 4th cell in all three notebooks) and the error disappears.
