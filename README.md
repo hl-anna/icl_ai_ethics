@@ -15,6 +15,4 @@ This repository contains three colab notebooks:
 
 These can be all run out of the box and each notebook has an outline for easier navigation.
 
-Howeverm note that the aif360 sometimes fails to import one of the required modules and gives an error.
-If that happens, one only needs to re-run the cell (this import cell is the 4th cell in all three notebooks) 
-and the error disappears.
+Note: One of the aif360 module import fails sometimes and gives an error. If that happens, one only needs to re-run the cell (this import cell is the 4th cell in all three notebooks) and the error disappears.
